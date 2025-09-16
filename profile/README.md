@@ -9,6 +9,6 @@ of the [Indian Institute of Information Technology, Bhagalpur](https://iiitbh.ac
 
   [<img width="64px" src="logo.png">](https://gymkhana.iiitbh.ac.in/technical) &nbsp; &nbsp;
   [<img width="64px" src="devc_logo.png">](https://gymkhana.iiitbh.ac.in/technical/devc) &nbsp; &nbsp;
-  [<img width="64px" src="https://github.com/OPCODE-Open-Spring-Fest.png">](https://github.com/OPCODE-Open-Spring-Fest)
+  [<img width="64px" src="https://github.com/OPCODE-Open-Spring-Fest.png">](https://opcode.gymkhana.iiitbh.ac.in/)
 
 </div>
