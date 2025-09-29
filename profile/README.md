@@ -1,4 +1,18 @@
-# OPCODE
+```
+            %@@@@@@        @@@@@@@@@@@           :@@@@@@@@@@       @@@@@@#       @@@@@@@@@@        @@@@@@@@@@@@@@@=     
+         @@@@@@@@          @@@@@@@@@@@@@@     #@@@@@@@@@@@@@    @@@@@@@@         @@@@@@@@@@@@@     @@@@@@@@@@@@@@@*     
+        @@@@       @@@@               @@@@   @@@@              @@@        @@@               @@@@                        
+       @@@           @@@               @@@  @@@               @@@          @@@               #@@                        
+       @@@           @@@   @@@        @@@:  @@@               @@@           @@   @@@          @@@  @@@   @@@@@@@@       
+       @@@           @@@   @@@  @@@@@@@@=   @@@               @@@          @@@   @@@          @@   @@@                  
+        @@@         @@@    @@@   @@@@        @@@               @@@         @@@   @@@         @@@   @@@                  
+         @       %@@@@     @@@                @@@@@             @@@@    @@@@     @@@      @@@@@    %@@                  
+           @@@@@@@@@       @@@                  @@@@@@@@@@@@      @@@@@@@@-      @@@@@@@@@@@@      @@@@@@@@@@@@@@@@
+```
+
+<div align="center">
+  
+  # OPCODE
 
 ***OPCODE*** is the annual Open Source fest conducted by *[DevC, the Development Club](https://gymkhana.iiitbh.ac.in/technical/devc)* (under the [Technical Board](https://gymkhana.iiitbh.ac.in/technical))
 of the [Indian Institute of Information Technology, Bhagalpur](https://iiitbh.ac.in)
